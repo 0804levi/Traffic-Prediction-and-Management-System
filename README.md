@@ -24,15 +24,3 @@ Quick setup:
    ```powershell
    streamlit run TPMS\traffic_app.py
    ```
-
-Git / push instructions (replace `<your-repo-url>` with the HTTPS remote URL):
-
-```powershell
-git add .
-git commit -m "Initial commit"
-git branch -M main
-git remote add origin <your-repo-url>
-git push -u origin main
-```
-
-If you don't have a remote repo yet, create one on GitHub and copy the repository URL, or tell me the name and I can help with steps.
